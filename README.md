@@ -29,7 +29,7 @@ I have included three short gifs within the project file briefly showing some of
 **HomeScreen**:
 <img src='homescreen_walkthrough.gif' title='HomeScreen Walkthrough' width='' alt='Homescreen Walkthrough' />
 **EditBrowserScreen**:
-<img src='editbrowserscreen_walkthrough.gif' title='EditBrowserScreen Walkthrough' width='' alt='EditbrowserScreen Walkthrough' />
+<img src='editbookmarkscreen_walkthrough.gif' title='EditBrowserScreen Walkthrough' width='' alt='EditbrowserScreen Walkthrough' />
 **WebviewScreen**:
 <img src='webviewscreen_walkthrough.gif' title='WebViewScreen Walkthrough' width='' alt='WebView Screen Walkthrough' />
 
