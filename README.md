@@ -27,10 +27,15 @@ I like the approach of saving usability and ui design until the end when I can i
 ## Video Walkthroughs
 I have included three short gifs within the project file briefly showing some of the functionality of the three screens.
 **HomeScreen**:
+
 <img src='homescreen_walkthrough.gif' title='HomeScreen Walkthrough' width='' alt='Homescreen Walkthrough' />
+
 **EditBrowserScreen**:
+
 <img src='editbookmarkscreen_walkthrough.gif' title='EditBrowserScreen Walkthrough' width='' alt='EditbrowserScreen Walkthrough' />
+
 **WebviewScreen**:
+
 <img src='webviewscreen_walkthrough.gif' title='WebViewScreen Walkthrough' width='' alt='WebView Screen Walkthrough' />
 
 The gifs were created with [LiceCap](http://www.cockos.com/licecap/).
