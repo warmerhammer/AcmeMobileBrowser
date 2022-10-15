@@ -1,5 +1,5 @@
 # Running The Project
-**AcmeMobileBorwser**  is a native android application that allows users to browse the web, manage bookmarks, and track their
+**AcmeMobileBrowser**  is a native android application that allows users to browse the web, manage bookmarks, and track their
 browsing history. To run the app, simply launch through the emulator or sync with an Android device.
 This app was built using the latest version of Jetpack Compose and Navigation, so the latest implementations of these libraries are necessary.
 
